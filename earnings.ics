@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Earnings Nov 2026//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:11月财报
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:3958b758263c472745b9c7862369ec6f@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜AMD、Arista、Astera Labs、超微、Skyworks
+DESCRIPTION:美股11/3盘后发布。AMD电话会06:00，Arista、Astera 
+ Labs电话会05:30。\n\n财报与直播入口（投资者关系页）：
+ \nAMD：https://ir.amd.com\nArista：https://investors.arista.com\nAstera
+  Labs：https://ir.asteralabs.com\n超微 Super Micro：https://ir.superm
+ icro.com\nSkyworks：https://investors.skyworksinc.com
+URL:https://ir.amd.com
+DTSTART:20261103T210000Z
+DTEND:20261103T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc623c70a980f8e96db5290b61e3fc58@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜GlobalFoundries、Uber
+DESCRIPTION:美股11/4盘前发布。Uber电话会21:00。\n\n财报与
+ 直播入口（投资者关系页）：\nGlobalFoundries：https://invest
+ ors.gf.com\nUber：https://investor.uber.com
+URL:https://investors.gf.com
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba188ff089059db9e16f4de35a8d5be3@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜高通、Arm、Coherent、AppLovin
+DESCRIPTION:美股11/4盘后发布。高通电话会05:45，Coherent 05:3
+ 0，AppLovin 06:00。\n\n财报与直播入口（投资者关系页）：
+ \n高通：https://investor.qualcomm.com\nArm：https://investors.arm.com
+ \nCoherent：https://www.coherent.com/company/investor-relations/financia
+ l-webcasts\nAppLovin：https://investors.applovin.com
+URL:https://investor.qualcomm.com
+DTSTART:20261104T210000Z
+DTEND:20261104T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b3d5c745293db117629e1943247cf2a@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜Arrow Electronics、MACOM、索尼
+DESCRIPTION:美股11/5盘前发布（索尼为预计日期）。Arrow为
+ 全球主要元器件分销商，关注库存、交期、订单。\n\n财
+ 报与直播入口（投资者关系页）：\nArrow Electronics：https:
+ //investor.arrow.com\nMACOM：https://ir.macom.com\n索尼：https://www.
+ sony.com/en/SonyInfo/IR/
+URL:https://investor.arrow.com
+DTSTART:20261105T120000Z
+DTEND:20261105T130000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b3f69dca67728f7b23b0935225ebca@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜Microchip、Lumentum、Cloudflare
+DESCRIPTION:美股11/5盘后发布。电话会均为06:00。\n\n财报与
+ 直播入口（投资者关系页）：\nMicrochip：https://ir.microchip
+ .com\nLumentum：https://investor.lumentum.com\nCloudflare：https://clou
+ dflare.net
+URL:https://ir.microchip.com
+DTSTART:20261105T210000Z
+DTEND:20261105T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4c914e82fd3e2a0c19477c5c615397@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜软银集团
+DESCRIPTION:14:30发布，15:30业绩说明会（东京时间15:30/16:30
+ ）。\n\n财报与直播入口（投资者关系页）：\n软银集团
+ （本次直播页）：https://group.softbank/en/news/info/20261002\n软
+ 银集团 IR：https://group.softbank/en/ir
+URL:https://group.softbank/en/news/info/20261002
+DTSTART:20261110T063000Z
+DTEND:20261110T083000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2c37144e6f1d7134cb560ab2818e3d@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜Applied Materials、思科
+DESCRIPTION:美股11/12盘后发布。\n\n财报与直播入口（投资
+ 者关系页）：\nApplied Materials：https://ir.appliedmaterials.com\n
+ 思科：https://investor.cisco.com
+URL:https://ir.appliedmaterials.com
+DTSTART:20261112T210000Z
+DTEND:20261112T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d973f1d8092e7242cf7ba8186a985008@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:中芯国际 三季度业绩说明会
+DESCRIPTION:具体时间以公司公告为准。\n\n财报与直播入口
+ （投资者关系页）：\n中芯国际：https://www.smics.com
+URL:https://www.smics.com
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0ac5cdc6586cca27cb9a99370bb1b6@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜Home Depot、迪士尼
+DESCRIPTION:美股11/17盘前发布。\n\n财报与直播入口（投资
+ 者关系页）：\nHome Depot：https://ir.homedepot.com\n迪士尼：ht
+ tps://thewaltdisneycompany.com/investor-relations/
+URL:https://ir.homedepot.com
+DTSTART:20261117T120000Z
+DTEND:20261117T130000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91b61c59694d4e9e7293ef76d839559d@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜英伟达 Nvidia
+DESCRIPTION:美股11/17盘后发布：约05:20发布结果与CFO评论，
+ 06:00电话会。\n\n财报与直播入口（投资者关系页）：\n
+ 英伟达 IR：https://investor.nvidia.com\n英伟达（电话会公告
+ ）：https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-
+ Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx
+URL:https://investor.nvidia.com
+DTSTART:20261117T212000Z
+DTEND:20261117T230000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c8d2c10fe006b18c083afe4efe424bec@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:腾讯 三季度业绩
+DESCRIPTION:董事会当日审批三季度业绩，通常港股收盘后
+ 公布。\n\n财报与直播入口（投资者关系页）：\n腾讯：h
+ ttps://www.tencent.com/zh-cn/investors.html
+URL:https://www.tencent.com/zh-cn/investors.html
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2866b616955a648386231b98f2694020@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜沃尔玛
+DESCRIPTION:美股11/19盘前发布。\n\n财报与直播入口（投资
+ 者关系页）：\n沃尔玛：https://stock.walmart.com
+URL:https://stock.walmart.com
+DTSTART:20261119T120000Z
+DTEND:20261119T130000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:07b157b9d25e73ccbc364f387d2fbc91@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜是德科技 Keysight、Intuit
+DESCRIPTION:美股11/19盘后发布。\n\n财报与直播入口（投资
+ 者关系页）：\n是德科技 Keysight：https://investor.keysight.com
+ \nIntuit：https://investors.intuit.com
+URL:https://investor.keysight.com
+DTSTART:20261119T210000Z
+DTEND:20261119T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b0376b62c5bc75906403c09f3861a9@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜HPE、安捷伦 Agilent
+DESCRIPTION:美股11/23盘后发布。\n\n财报与直播入口（投资
+ 者关系页）：\nHPE：https://investors.hpe.com\n安捷伦 Agilent：
+ https://www.investor.agilent.com
+URL:https://investors.hpe.com
+DTSTART:20261123T210000Z
+DTEND:20261123T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7badae06620479810d198385fb27aeca@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜ADI
+DESCRIPTION:美股11/24盘前发布。\n\n财报与直播入口（投资
+ 者关系页）：\nADI：https://investor.analog.com
+URL:https://investor.analog.com
+DTSTART:20261124T120000Z
+DTEND:20261124T130000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1479abc302c890cf178f7c00cb5f233e@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜戴尔（待确认）、惠普（时间未定）
+DESCRIPTION:美股11/24，戴尔日期来自第三方日历未经确认
+ ，惠普时间未公布，以公司公告为准。\n\n财报与直播入
+ 口（投资者关系页）：\n戴尔：https://investors.delltechnologi
+ es.com\n惠普：https://investor.hp.com
+URL:https://investors.delltechnologies.com
+DTSTART:20261124T210000Z
+DTEND:20261124T223000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d33628fd555fcefa6f70e72f737e0e1a@claude-earnings
+DTSTAMP:20261103T024759Z
+SUMMARY:财报｜Deere
+DESCRIPTION:美股11/25盘前发布。\n\n财报与直播入口（投资
+ 者关系页）：\nDeere：https://investor.deere.com
+URL:https://investor.deere.com
+DTSTART:20261125T120000Z
+DTEND:20261125T130000Z
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
