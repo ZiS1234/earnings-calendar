@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:4e43ae3b37af45882aab28f5a3018aff@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜AMD、Arista、Astera Labs、超微、Skyworks
 DESCRIPTION:美股11/3盘后发布。AMD电话会06:00，Arista、Astera 
  Labs电话会05:30。\n\n财报与直播入口：\nAMD：https://ir.amd.c
@@ -23,7 +23,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9b619d1bff26316a730334bfe76e91b0@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜GlobalFoundries、Uber
 DESCRIPTION:美股11/4盘前发布。Uber电话会21:00。\n\n财报与
  直播入口：\nGlobalFoundries：https://investors.gf.com\nUber：https
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:107cb1cd4a8ecf2a668d22e422b12806@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜高通、Arm、Coherent、AppLovin
 DESCRIPTION:美股11/4盘后发布。高通电话会05:45，Coherent 05:3
  0，AppLovin 06:00。\n\n财报与直播入口：\n高通：https://inves
@@ -49,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fd02a3086518d154ff279e7a0746c749@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜Arrow Electronics、MACOM、索尼
 DESCRIPTION:美股11/5盘前发布（索尼为预计日期）。Arrow为
  全球主要元器件分销商，关注库存、交期、订单。\n\n财
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20c6a0580076510258b016b7dcd9584c@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜Microchip、Lumentum、Cloudflare
 DESCRIPTION:美股11/5盘后发布。电话会均为06:00。\n\n财报与
  直播入口：\nMicrochip：https://ir.microchip.com\nLumentum：https:/
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:da9ea5c48c2054f046f5135f9e273296@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜软银集团
 DESCRIPTION:14:30发布，15:30业绩说明会（东京时间15:30/16:30
  ）。\n\n财报与直播入口：\n软银集团（本次直播页）：h
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:641cc6331c049ad896a0a4a93c3ee7bf@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:中芯国际 三季度业绩说明会
 DESCRIPTION:具体时间以公司公告为准。\n\n财报与直播入口
  ：\n中芯国际：https://www.smics.com
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f8cdd694f0dd4326965b727d78e5526b@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜Applied Materials、思科
 DESCRIPTION:美股11/12盘后发布。\n\n财报与直播入口：\nAppli
  ed Materials：https://ir.appliedmaterials.com\n思科：https://investor
@@ -110,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f7979b6cf57b1d1b4e7cd3af1efb2a9b@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜Home Depot、迪士尼
 DESCRIPTION:美股11/17盘前发布。\n\n财报与直播入口：\nHome 
  Depot：https://ir.homedepot.com\n迪士尼：https://thewaltdisneycompan
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e2739c08657a18e08d7b1e1305b59040@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:腾讯 三季度业绩
 DESCRIPTION:董事会当日审批三季度业绩，通常港股收盘后
  公布。\n\n财报与直播入口：\n腾讯：https://www.tencent.com/z
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:05f96eedfd7652f900adc78e29f1dea7@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜英伟达 Nvidia
 DESCRIPTION:美股11/17盘后发布：约05:20发布结果与CFO评论，
  06:00电话会。\n\n财报与直播入口：\n英伟达 IR：https://inv
@@ -148,7 +148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2d642b6da9058cf20ca749b98928c704@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜沃尔玛
 DESCRIPTION:美股11/19盘前发布。\n\n财报与直播入口：\n沃
  尔玛：https://stock.walmart.com
@@ -159,7 +159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:b633b60300eabf0721902f112844b50c@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜是德科技 Keysight、Intuit
 DESCRIPTION:美股11/19盘后发布。\n\n财报与直播入口：\n是
  德科技 Keysight：https://investor.keysight.com\nIntuit：https://inve
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a3e666671cf45c4e66288696d821fc6c@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜HPE、安捷伦 Agilent
 DESCRIPTION:美股11/23盘后发布。\n\n财报与直播入口：\nHPE
  ：https://investors.hpe.com\n安捷伦 Agilent：https://www.investor.ag
@@ -183,7 +183,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a91e1f0164bb40783ca7e22d75ad04f2@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜ADI
 DESCRIPTION:美股11/24盘前发布。\n\n财报与直播入口：\nADI
  ：https://investor.analog.com
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:819d72b51bf587b35b07521e4ca1b6d7@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜戴尔（待确认）、惠普（时间未定）
 DESCRIPTION:美股11/24，戴尔日期来自第三方日历未经确认
  ，惠普时间未公布，以公司公告为准。\n\n财报与直播入
@@ -207,7 +207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:347f48b6caa8e81b4e958917d6fbc7f2@earnings-calendar
-DTSTAMP:20261103T030447Z
+DTSTAMP:20261103T030456Z
 SUMMARY:财报｜Deere
 DESCRIPTION:美股11/25盘前发布。\n\n财报与直播入口：\nDeere
  ：https://investor.deere.com

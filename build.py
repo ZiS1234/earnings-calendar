@@ -7,7 +7,7 @@ ROOT = Path(__file__).resolve().parent
 data = json.loads((ROOT / "events.json").read_text(encoding="utf-8"))
 
 def esc(s):
-    return s.replace("\\", "\\\\").replace(",", "\\,").replace(";", "\;").replace("\n", "\\n")
+    return s.replace("\\", "\\\\").replace(",", "\\,").replace(";", "\\;").replace("\n", "\\n")
 
 def fold(line):
     b = line.encode("utf-8"); out = []
