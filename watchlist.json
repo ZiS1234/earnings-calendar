@@ -1,0 +1,74 @@
+{
+  "_说明": "定时任务只跟踪这里列出的公司。想增删公司，直接改这个文件，或在对话里告诉 Claude。events.json 里标了 \"locked\": true 的日程是手动调整过的，自动更新不会改动它。",
+  "美股科技与半导体": [
+    "Nvidia",
+    "AMD",
+    "Broadcom",
+    "Marvell",
+    "Qualcomm",
+    "Arm",
+    "Intel",
+    "Micron",
+    "Apple",
+    "Microsoft",
+    "Alphabet",
+    "Amazon",
+    "Meta",
+    "Applied Materials",
+    "Lam Research",
+    "KLA",
+    "GlobalFoundries"
+  ],
+  "AI 服务器与网络": [
+    "Super Micro",
+    "Dell",
+    "HPE",
+    "Arista",
+    "Cisco",
+    "Astera Labs",
+    "Celestica",
+    "Coherent",
+    "Lumentum",
+    "Fabrinet"
+  ],
+  "模拟、汽车与工业半导体": [
+    "Texas Instruments",
+    "Analog Devices",
+    "Microchip",
+    "NXP",
+    "onsemi",
+    "Infineon",
+    "STMicroelectronics",
+    "Skyworks",
+    "MACOM",
+    "Keysight"
+  ],
+  "电子元器件分销": [
+    "Arrow Electronics",
+    "Avnet"
+  ],
+  "日本电子与被动元件": [
+    "村田制作所",
+    "TDK",
+    "太阳诱电",
+    "京瓷",
+    "Sony",
+    "SoftBank Group",
+    "Tokyo Electron"
+  ],
+  "港股与 A 股科技": [
+    "腾讯",
+    "阿里巴巴",
+    "小米",
+    "中芯国际",
+    "华虹半导体",
+    "联想"
+  ],
+  "其他大型公司": [
+    "Walmart",
+    "Home Depot",
+    "Disney",
+    "Salesforce",
+    "Intuit"
+  ]
+}
