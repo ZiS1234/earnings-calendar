@@ -1,0 +1,302 @@
+{
+  "_说明": "start 为北京时间；minutes 为 null 表示全天日程。id 一旦设定不要改，iPhone 靠它识别同一个日程。",
+  "events": [
+    {
+      "id": "2026-11-04-amd",
+      "start": "2026-11-04 05:00",
+      "minutes": 90,
+      "title": "财报｜AMD、Arista、Astera Labs、超微、Skyworks",
+      "note": "美股11/3盘后发布。AMD电话会06:00，Arista、Astera Labs电话会05:30。",
+      "links": [
+        {
+          "name": "AMD",
+          "url": "https://ir.amd.com"
+        },
+        {
+          "name": "Arista",
+          "url": "https://investors.arista.com"
+        },
+        {
+          "name": "Astera Labs",
+          "url": "https://ir.asteralabs.com"
+        },
+        {
+          "name": "超微 Super Micro",
+          "url": "https://ir.supermicro.com"
+        },
+        {
+          "name": "Skyworks",
+          "url": "https://investors.skyworksinc.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-gfs",
+      "start": "2026-11-04 20:00",
+      "minutes": 60,
+      "title": "财报｜GlobalFoundries、Uber",
+      "note": "美股11/4盘前发布。Uber电话会21:00。",
+      "links": [
+        {
+          "name": "GlobalFoundries",
+          "url": "https://investors.gf.com"
+        },
+        {
+          "name": "Uber",
+          "url": "https://investor.uber.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-qcom",
+      "start": "2026-11-05 05:00",
+      "minutes": 90,
+      "title": "财报｜高通、Arm、Coherent、AppLovin",
+      "note": "美股11/4盘后发布。高通电话会05:45，Coherent 05:30，AppLovin 06:00。",
+      "links": [
+        {
+          "name": "高通",
+          "url": "https://investor.qualcomm.com"
+        },
+        {
+          "name": "Arm",
+          "url": "https://investors.arm.com"
+        },
+        {
+          "name": "Coherent",
+          "url": "https://www.coherent.com/company/investor-relations/financial-webcasts"
+        },
+        {
+          "name": "AppLovin",
+          "url": "https://investors.applovin.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-arw",
+      "start": "2026-11-05 20:00",
+      "minutes": 60,
+      "title": "财报｜Arrow Electronics、MACOM、索尼",
+      "note": "美股11/5盘前发布（索尼为预计日期）。Arrow为全球主要元器件分销商，关注库存、交期、订单。",
+      "links": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://investor.arrow.com"
+        },
+        {
+          "name": "MACOM",
+          "url": "https://ir.macom.com"
+        },
+        {
+          "name": "索尼",
+          "url": "https://www.sony.com/en/SonyInfo/IR/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-mchp",
+      "start": "2026-11-06 05:00",
+      "minutes": 90,
+      "title": "财报｜Microchip、Lumentum、Cloudflare",
+      "note": "美股11/5盘后发布。电话会均为06:00。",
+      "links": [
+        {
+          "name": "Microchip",
+          "url": "https://ir.microchip.com"
+        },
+        {
+          "name": "Lumentum",
+          "url": "https://investor.lumentum.com"
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://cloudflare.net"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-softbank",
+      "start": "2026-11-10 14:30",
+      "minutes": 120,
+      "title": "财报｜软银集团",
+      "note": "14:30发布，15:30业绩说明会（东京时间15:30/16:30）。",
+      "links": [
+        {
+          "name": "软银集团（本次直播页）",
+          "url": "https://group.softbank/en/news/info/20261002"
+        },
+        {
+          "name": "软银集团 IR",
+          "url": "https://group.softbank/en/ir"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-amat",
+      "start": "2026-11-13 05:00",
+      "minutes": 90,
+      "title": "财报｜Applied Materials、思科",
+      "note": "美股11/12盘后发布。",
+      "links": [
+        {
+          "name": "Applied Materials",
+          "url": "https://ir.appliedmaterials.com"
+        },
+        {
+          "name": "思科",
+          "url": "https://investor.cisco.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-smic",
+      "start": "2026-11-13",
+      "minutes": null,
+      "title": "中芯国际 三季度业绩说明会",
+      "note": "具体时间以公司公告为准。",
+      "links": [
+        {
+          "name": "中芯国际",
+          "url": "https://www.smics.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-hd",
+      "start": "2026-11-17 20:00",
+      "minutes": 60,
+      "title": "财报｜Home Depot、迪士尼",
+      "note": "美股11/17盘前发布。",
+      "links": [
+        {
+          "name": "Home Depot",
+          "url": "https://ir.homedepot.com"
+        },
+        {
+          "name": "迪士尼",
+          "url": "https://thewaltdisneycompany.com/investor-relations/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-nvda",
+      "start": "2026-11-18 05:20",
+      "minutes": 100,
+      "title": "财报｜英伟达 Nvidia",
+      "note": "美股11/17盘后发布：约05:20发布结果与CFO评论，06:00电话会。",
+      "links": [
+        {
+          "name": "英伟达 IR",
+          "url": "https://investor.nvidia.com"
+        },
+        {
+          "name": "英伟达（电话会公告）",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-tencent",
+      "start": "2026-11-18",
+      "minutes": null,
+      "title": "腾讯 三季度业绩",
+      "note": "董事会当日审批三季度业绩，通常港股收盘后公布。",
+      "links": [
+        {
+          "name": "腾讯",
+          "url": "https://www.tencent.com/zh-cn/investors.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-wmt",
+      "start": "2026-11-19 20:00",
+      "minutes": 60,
+      "title": "财报｜沃尔玛",
+      "note": "美股11/19盘前发布。",
+      "links": [
+        {
+          "name": "沃尔玛",
+          "url": "https://stock.walmart.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-keys",
+      "start": "2026-11-20 05:00",
+      "minutes": 90,
+      "title": "财报｜是德科技 Keysight、Intuit",
+      "note": "美股11/19盘后发布。",
+      "links": [
+        {
+          "name": "是德科技 Keysight",
+          "url": "https://investor.keysight.com"
+        },
+        {
+          "name": "Intuit",
+          "url": "https://investors.intuit.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-hpe",
+      "start": "2026-11-24 05:00",
+      "minutes": 90,
+      "title": "财报｜HPE、安捷伦 Agilent",
+      "note": "美股11/23盘后发布。",
+      "links": [
+        {
+          "name": "HPE",
+          "url": "https://investors.hpe.com"
+        },
+        {
+          "name": "安捷伦 Agilent",
+          "url": "https://www.investor.agilent.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-adi",
+      "start": "2026-11-24 20:00",
+      "minutes": 60,
+      "title": "财报｜ADI",
+      "note": "美股11/24盘前发布。",
+      "links": [
+        {
+          "name": "ADI",
+          "url": "https://investor.analog.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-dell",
+      "start": "2026-11-25 05:00",
+      "minutes": 90,
+      "title": "财报｜戴尔（待确认）、惠普（时间未定）",
+      "note": "美股11/24，戴尔日期来自第三方日历未经确认，惠普时间未公布，以公司公告为准。",
+      "links": [
+        {
+          "name": "戴尔",
+          "url": "https://investors.delltechnologies.com"
+        },
+        {
+          "name": "惠普",
+          "url": "https://investor.hp.com"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-de",
+      "start": "2026-11-25 20:00",
+      "minutes": 60,
+      "title": "财报｜Deere",
+      "note": "美股11/25盘前发布。",
+      "links": [
+        {
+          "name": "Deere",
+          "url": "https://investor.deere.com"
+        }
+      ]
+    }
+  ]
+}
